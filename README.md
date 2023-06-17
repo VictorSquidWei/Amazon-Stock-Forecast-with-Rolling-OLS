@@ -17,4 +17,4 @@ This repository contains a Jupyter notebook `AMZNStockPrediction.ipynb` demonstr
 - Run the notebook cells
 
 ## Note
-This project serves as a demonstration of time series prediction and is not intended to be used for making actual investment decisions.
+This project is a demonstration of time series prediction and should not be used for making actual investment decisions.
