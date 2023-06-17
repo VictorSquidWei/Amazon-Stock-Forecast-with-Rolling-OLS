@@ -12,7 +12,8 @@ This repository contains a Jupyter notebook `AMZNStockPrediction.ipynb` demonstr
 ## Usage
 - Clone this repository
 - Unzip the `prices-split-adjusted.zip` file
-- Open the AMZNStockPrediction.ipynb notebook
+- Open the `AMZNStockPrediction.ipynb` notebook
+- See appendix for required packages
 - Run the notebook cells
 
 ## Note
